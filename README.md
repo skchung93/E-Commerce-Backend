@@ -37,4 +37,17 @@ skchung93
 
 
 
+Category Routes:
+https://user-images.githubusercontent.com/85310173/136891597-54ff2003-72a4-4be1-9e70-d80d48ced5cf.mov
+
+Product Routes:
+https://user-images.githubusercontent.com/85310173/136891639-bd499374-a92a-4f9b-93f1-bc9a1e493f07.mov
+
+Tag Routes:
+https://user-images.githubusercontent.com/85310173/136891666-5696ff78-5b60-4416-8b11-9dce9c460d01.mov
+
+
+
+
+
 
